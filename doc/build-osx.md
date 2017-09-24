@@ -41,7 +41,7 @@ NOTE: Building with Qt4 is still supported, however, could result in a broken UI
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/purapay/pura.git
+        git clone https://github.com/puracore/pura.git
         cd pura
 
 2.  Build Pura:
